@@ -1,8 +1,8 @@
-# jekyll-project-template
+# dh-final-project
 
-Write a tagline here!
+This is the website for my final project.
 
-By Your Name, Boston College
+By Victoria Oliviero, Boston College
 
 ## About
 
