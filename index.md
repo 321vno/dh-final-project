@@ -4,6 +4,11 @@ title: Home
 show-title: false
 ---
 
+# Americans in Egypt
+*A collection of the forty-nine soldiers who served in the Egyptian Army from 1869 to 1879*
+
+---
+
 This is your home page. You should put the most important information about your project here. Have at least one landing image. Make sure to including information about
 
 1. The project & general background
